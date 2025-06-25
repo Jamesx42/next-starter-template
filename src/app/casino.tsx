@@ -1,3 +1,4 @@
+"use client";
 import React, { useState, useEffect } from 'react';
 import { Download, Play, MessageCircle, Facebook, Send, X, Sparkles, Star, Zap, Crown, Gem, Award, Trophy, Target, Dice1, Gift, Diamond } from 'lucide-react';
 
@@ -5,7 +6,7 @@ const CasinoApp = () => {
   const [showContact, setShowContact] = useState(false);
   const [showAgentPopup, setShowAgentPopup] = useState(false);
   const [selectedGame, setSelectedGame] = useState('');
-  const [sparkles, setSparkles] = useState();
+  const [sparkles, setSparkles] = useState([]);
 
   // Casino games data
   const games = [
