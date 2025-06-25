@@ -6,7 +6,8 @@ const CasinoApp = () => {
   const [showContact, setShowContact] = useState(false);
   const [showAgentPopup, setShowAgentPopup] = useState(false);
   const [selectedGame, setSelectedGame] = useState('');
-  const [sparkles, setSparkles] = useState([]);
+  const [sparkles, setSparkles] = useState([{ id: 1, x: 10, y: 20, size: 5, delay: 1 },
+  ]);
 
   // Casino games data
   const games = [
