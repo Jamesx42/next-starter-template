@@ -173,7 +173,7 @@ const CasinoApp = () => {
           </a>
 
           <a
-            href="https://t.me/countrygaming"
+            href="https://t.me/Juwa999"
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center gap-4 bg-sky-500 bg-opacity-20 backdrop-blur-sm rounded-2xl p-4 hover:bg-opacity-30 transition-all duration-300 border border-sky-400 border-opacity-30"
