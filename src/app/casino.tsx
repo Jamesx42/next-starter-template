@@ -160,7 +160,7 @@ const CasinoApp = () => {
           </a>
 
           <a
-            href="https://www.facebook.com/epicwinnersx"
+            href="https://www.facebook.com/epicwinnersx1"
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center gap-4 bg-blue-500 bg-opacity-20 backdrop-blur-sm rounded-2xl p-4 hover:bg-opacity-30 transition-all duration-300 border border-blue-400 border-opacity-30"
@@ -222,7 +222,7 @@ const CasinoApp = () => {
           </a>
 
           <a
-            href="https://www.facebook.com/epicwinnersx"
+            href="https://www.facebook.com/epicwinnersx1"
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center justify-center gap-3 bg-blue-500 bg-opacity-20 backdrop-blur-sm rounded-2xl p-4 hover:bg-opacity-30 transition-all duration-300 border border-blue-400 border-opacity-30 w-full"
